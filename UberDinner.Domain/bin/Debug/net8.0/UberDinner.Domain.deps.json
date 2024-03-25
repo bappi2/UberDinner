@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UberDinner.Domain/1.0.0": {
+        "runtime": {
+          "UberDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UberDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

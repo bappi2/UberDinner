@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>ce95bffd-1be9-4be3-938d-3b9790241d16</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UberDinner.Contracts\UberDinner.Contracts.csproj" />
+    <ProjectReference Include="..\UberDinner.Application\UberDinner.Application.csproj" />
+    <ProjectReference Include="..\UberDinner.Infrastructure\UberDinner.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

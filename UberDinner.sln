@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberDinner.Api", "UberDinner.Api\UberDinner.Api.csproj", "{A14EDD09-D4EF-44B3-BDD3-414DB2B77DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberDinner.Application", "UberDinner.Application\UberDinner.Application.csproj", "{42587BB8-0671-4125-BE78-F8B8654239EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberDinner.Contracts", "UberDinner.Contracts\UberDinner.Contracts.csproj", "{92C31418-07F8-42BC-A7F9-1395D0D51CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberDinner.Domain", "UberDinner.Domain\UberDinner.Domain.csproj", "{21FE1CEB-74F4-4EEA-A641-2E9BCC2E59DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberDinner.Infrastructure", "UberDinner.Infrastructure\UberDinner.Infrastructure.csproj", "{470F0CAB-D463-413A-81E3-A5FECD0FFE7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{2B42BA74-2FAD-4EA4-9BDE-3CD0A5C34CCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requests", "Requests", "{BF4CA0C4-D28D-4EC7-AE29-6B84DD2CC6BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{2ABECC98-A0B5-4604-97F2-8AFAA674695D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requests", "Requests", "{67DD5701-9192-4D2E-B2A8-821C15699EE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{A40D6A80-DECB-4D5C-A4C3-549838973BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14EDD09-D4EF-44B3-BDD3-414DB2B77DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14EDD09-D4EF-44B3-BDD3-414DB2B77DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14EDD09-D4EF-44B3-BDD3-414DB2B77DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14EDD09-D4EF-44B3-BDD3-414DB2B77DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42587BB8-0671-4125-BE78-F8B8654239EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42587BB8-0671-4125-BE78-F8B8654239EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42587BB8-0671-4125-BE78-F8B8654239EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42587BB8-0671-4125-BE78-F8B8654239EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C31418-07F8-42BC-A7F9-1395D0D51CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C31418-07F8-42BC-A7F9-1395D0D51CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C31418-07F8-42BC-A7F9-1395D0D51CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C31418-07F8-42BC-A7F9-1395D0D51CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FE1CEB-74F4-4EEA-A641-2E9BCC2E59DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FE1CEB-74F4-4EEA-A641-2E9BCC2E59DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FE1CEB-74F4-4EEA-A641-2E9BCC2E59DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FE1CEB-74F4-4EEA-A641-2E9BCC2E59DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470F0CAB-D463-413A-81E3-A5FECD0FFE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470F0CAB-D463-413A-81E3-A5FECD0FFE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470F0CAB-D463-413A-81E3-A5FECD0FFE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470F0CAB-D463-413A-81E3-A5FECD0FFE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF4CA0C4-D28D-4EC7-AE29-6B84DD2CC6BC} = {2B42BA74-2FAD-4EA4-9BDE-3CD0A5C34CCC}
+		{2ABECC98-A0B5-4604-97F2-8AFAA674695D} = {BF4CA0C4-D28D-4EC7-AE29-6B84DD2CC6BC}
+		{A40D6A80-DECB-4D5C-A4C3-549838973BB5} = {67DD5701-9192-4D2E-B2A8-821C15699EE3}
+	EndGlobalSection
+EndGlobal

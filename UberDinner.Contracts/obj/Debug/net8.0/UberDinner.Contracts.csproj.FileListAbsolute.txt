@@ -1,0 +1,11 @@
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/bin/Debug/net8.0/UberDinner.Contracts.deps.json
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/bin/Debug/net8.0/UberDinner.Contracts.dll
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/bin/Debug/net8.0/UberDinner.Contracts.pdb
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.AssemblyInfoInputs.cache
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.AssemblyInfo.cs
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.dll
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/refint/UberDinner.Contracts.dll
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/UberDinner.Contracts.pdb
+/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Contracts/obj/Debug/net8.0/ref/UberDinner.Contracts.dll

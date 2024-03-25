@@ -1,0 +1,12 @@
+@UberDinner.Api_HostAddress = http://localhost:5000
+
+POST {{UberDinner.Api_HostAddress}}/auth/register
+Content-Type: application/json
+
+{
+    "firstName": "Amichai",
+    "lastName": "Mantinband",
+    "email": "amichai@mantinband.com",
+    "password": "Amiko1232!"
+}
+

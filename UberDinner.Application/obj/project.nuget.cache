@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "74Hg3GPlfNhST5q9s6/uyT2Syxm8MRZmomlG1tE/6xHPnpxXTNBo9MOgBebfM4yTwdsMZFrJKRGQ4aYwVxS1KA==",
+  "success": true,
+  "projectFilePath": "/Users/mmeftauddin/RiderProjects/UberDinner/UberDinner.Application/UberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/mmeftauddin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
