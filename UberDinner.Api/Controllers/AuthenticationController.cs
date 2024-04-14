@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using UberDinner.Api.Filters;
 using UberDinner.Application.Services.Authentication;
 using UberDinner.Contracts.Authentication;
 
@@ -6,6 +7,7 @@ namespace UberDinner.Api.Controllers;
 
 [ApiController]
 [Route("auth")]
+[ErrorHandlingFilter]
 public class AuthenticationController: ControllerBase
 {
     //private readonly ILogger<AuthenticationController> _logger;

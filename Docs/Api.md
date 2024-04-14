@@ -22,10 +22,10 @@ POST {{host}}/auth/register
 
 ```json
 {
-    "firstName": "Amichai",
-    "lastName": "Mantinband",
-    "email": "amichai@mantinband.com",
-    "password": "Amiko1232!"
+    "firstName": "mohammad",
+    "lastName": "meftauddin",
+    "email": "mmeftauddin@me.com",
+    "password": "Pass1232!"
 }
 ```
 
@@ -38,9 +38,9 @@ POST {{host}}/auth/register
 ```json
 {
   "id": "d89c2d9a-eb3e-4075-95ff-b920b55aa104",
-  "firstName": "Amichai",
-  "lastName": "Mantinband",
-  "email": "amichai@mantinband.com",
+  "firstName": "mohammad",
+  "lastName": "meftauddin",
+  "email": "mmeftauddin@me.com",
   "token": "eyJhb..z9dqcnXoY"
 }
 ```
@@ -55,8 +55,8 @@ POST {{host}}/auth/login
 
 ```json
 {
-    "email": "amichai@mantinband.com",
-    "password": "Amiko1232!"
+    "email": "mmeftauddin@me.com",
+    "password": "Pass1232!"
 }
 ```
 
@@ -69,9 +69,9 @@ POST {{host}}/auth/login
 ```json
 {
   "id": "d89c2d9a-eb3e-4075-95ff-b920b55aa104",
-  "firstName": "Amichai",
-  "lastName": "Mantinband",
-  "email": "amichai@mantinband.com",
+  "firstName": "mohammad",
+  "lastName": "meftauddin",
+  "email": "mmeftauddin@me.com",
   "token": "eyJhb..hbbQ"
 }
 ```
