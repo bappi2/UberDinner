@@ -7,7 +7,7 @@ namespace UberDinner.Api.Controllers;
 
 [ApiController]
 [Route("auth")]
-[ErrorHandlingFilter]
+//[ErrorHandlingFilter]
 public class AuthenticationController: ControllerBase
 {
     //private readonly ILogger<AuthenticationController> _logger;

@@ -16,6 +16,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{2B42BA74-2FAD-4EA4-9BDE-3CD0A5C34CCC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requests", "Requests", "{BF4CA0C4-D28D-4EC7-AE29-6B84DD2CC6BC}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Requests\ListDinners.http = Docs\Requests\ListDinners.http
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication", "Authentication", "{2ABECC98-A0B5-4604-97F2-8AFAA674695D}"
 EndProject
